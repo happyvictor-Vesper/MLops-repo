@@ -8,6 +8,6 @@ Di dalam folder Google Drive tersebut **sudah menyertakan Virtual Environment**.
 Selain itu sudah ada panduan ( How to.txt) terkait cara menjalankan di lokal
 
 📥 **Link Google Drive:**
-https://drive.google.com/drive/folders/1J5jA2P71Xy4ROR3uAcgX66rcQyUdLtcG?usp=sharing
+https://drive.google.com/drive/folders/1lq8S9_cSeTKlfTd6N8LQZicJ7BkoGeaK
 
 > **Catatan:** Pastikan Anda mengunduh seluruh folder untuk menghindari error saat *runtime*.
