@@ -12,6 +12,6 @@ Pastikan seluruh *path* file sudah sesuai dengan struktur direktori di platform 
 
 Untuk panduan penggunaan (termasuk fitur *Drag & Drop*) dan penjelasan teknis mengenai cara kerja proyek kami, silakan tonton video demo melalui tautan di bawah ini:
 
-👉 **[KLIK DI SINI UNTUK MELIHAT VIDEO DEMO]** https://youtu.be/qV1gnCnHX1Q
+👉 **[(https://youtu.be/qV1gnCnHX1Q)]** 
 
 > **Catatan:** Video tersebut mencakup tutorial langkah demi langkah dan penjelasan singkat alur kerja sistem.
